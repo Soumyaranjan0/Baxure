@@ -100,8 +100,4 @@ app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
 
-// git init
-// git add .
-// git commit -m "Initial commit"
-// git remote add origin <your-repository-url>
-// git push -u origin master
+
